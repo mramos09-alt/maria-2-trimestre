@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="'pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>apague a lampada</title>
+</head>
+<body>
+    <h1> o que o javacript pode fazer ?</h1>
+    <p> o javacript pode mudar os valores dos atributos em HTML </p>
+    <p> neste caso ele muda qual valor?</p>
+    <button>acende a luz </button>
+    <img src="" alt="">
+    <button>apaga a luz .</button>
+</body>
+</html>
